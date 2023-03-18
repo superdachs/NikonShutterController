@@ -39,6 +39,8 @@ Diode Kathodes parallel to relays coil pin - Emmitters of the transistors
 
 Ground connected to all devices and one coil pin of the relays and diode anodes.
 
+Relays base pins both goes to the ground of the headphone jack. NO pins goes to the other pins of the jack. If it focusses and don't shoot, switch both.
+
 ## Software
 First flash Micropython to the NodeMCU. It is described in Micropython documentation.
 Setup a IDE like Pycharm with micropython plugin.
